@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Outfit;
+  src: url(./assets/font/Outfit.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Outfit;
+}
+
+body {
+  background-color: #f5f5f5;
+}
